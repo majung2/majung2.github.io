@@ -19,7 +19,7 @@
 - 🔐 Google OAuth 로그인
 - 📱 반응형 디자인
 
-**접속:** `https://majung2.github.io/youtube-playlist/`
+**접속:** https://majung2.github.io/youtube-playlist/
 
 **자세한 설정 방법:** [youtube-playlist/README.md](./youtube-playlist/README.md)
 
@@ -66,7 +66,3 @@ npx http-server
 ## 📄 라이선스
 
 MIT License
-
-## 🤝 기여
-
-이슈와 PR을 환영합니다!
