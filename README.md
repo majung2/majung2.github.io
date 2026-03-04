@@ -4,11 +4,11 @@
 
 ## 🚀 GitHub Pages
 
-이 페이지는 `https://majung2.github.io/`에서 확인할 수 있습니다.
+이 페이지는 https://majung2.github.io/ 에서 확인할 수 있습니다.
 
 ## 📁 프로젝트 목록
 
-### 1. [유튜브 플레이리스트 생성기](./youtube-playlist/)
+### 1. [미완성] [유튜브 플레이리스트 생성기](./youtube-playlist/) 
 
 텍스트에서 유튜브 링크를 자동으로 추출하고 플레이리스트를 생성하는 웹 애플리케이션
 
