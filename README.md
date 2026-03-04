@@ -4,7 +4,7 @@
 
 ## 🚀 GitHub Pages
 
-이 페이지는 `https://[your-username].github.io/[repo-name]/`에서 확인할 수 있습니다.
+이 페이지는 `https://majung2.github.io/`에서 확인할 수 있습니다.
 
 ## 📁 프로젝트 목록
 
@@ -19,7 +19,7 @@
 - 🔐 Google OAuth 로그인
 - 📱 반응형 디자인
 
-**접속:** `https://[your-username].github.io/[repo-name]/youtube-playlist/`
+**접속:** `https://majung2.github.io/youtube-playlist/`
 
 **자세한 설정 방법:** [youtube-playlist/README.md](./youtube-playlist/README.md)
 
